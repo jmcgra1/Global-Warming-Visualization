@@ -1,0 +1,2341 @@
+id,country,month,avgtemp
+4681, Kazakhstan,1,-12.5471
+4682, Kazakhstan,2,-11.64
+4683, Kazakhstan,3,-4.43383
+4684, Kazakhstan,4,7.77726
+4685, Kazakhstan,5,15.6315
+4686, Kazakhstan,6,20.8742
+4687, Kazakhstan,7,23.1003
+4688, Kazakhstan,8,21.1484
+4689, Kazakhstan,9,14.9278
+4690, Kazakhstan,10,6.53153
+4691, Kazakhstan,11,-2.49093
+4692, Kazakhstan,12,-9.49735
+4693, Equatorial Guinea,1,25.1717
+4694, Equatorial Guinea,2,25.6028
+4695, Equatorial Guinea,3,25.4381
+4696, Equatorial Guinea,4,25.3444
+4697, Equatorial Guinea,5,25.0986
+4698, Equatorial Guinea,6,24.2917
+4699, Equatorial Guinea,7,23.3163
+4700, Equatorial Guinea,8,23.3758
+4701, Equatorial Guinea,9,24.2878
+4702, Equatorial Guinea,10,24.4591
+4703, Equatorial Guinea,11,24.6498
+4704, Equatorial Guinea,12,24.7224
+4705, Turkey,1,-0.360084
+4706, Turkey,2,0.967843
+4707, Turkey,3,4.86937
+4708, Turkey,4,10.0484
+4709, Turkey,5,14.7184
+4710, Turkey,6,18.8031
+4711, Turkey,7,22.1747
+4712, Turkey,8,22.2331
+4713, Turkey,9,18.4208
+4714, Turkey,10,13.1327
+4715, Turkey,11,7.08343
+4716, Turkey,12,1.91977
+4717, Cote d'Ivoire,1,25.9729
+4718, Cote d'Ivoire,2,27.8598
+4719, Cote d'Ivoire,3,28.4679
+4720, Cote d'Ivoire,4,28.1382
+4721, Cote d'Ivoire,5,27.3215
+4722, Cote d'Ivoire,6,25.9383
+4723, Cote d'Ivoire,7,24.9984
+4724, Cote d'Ivoire,8,24.7029
+4725, Cote d'Ivoire,9,25.3726
+4726, Cote d'Ivoire,10,26.0645
+4727, Cote d'Ivoire,11,26.4338
+4728, Cote d'Ivoire,12,25.7291
+4729, Croatia,1,0.0505027
+4730, Croatia,2,1.77549
+4731, Croatia,3,5.83705
+4732, Croatia,4,10.2093
+4733, Croatia,5,14.8169
+4734, Croatia,6,18.1921
+4735, Croatia,7,20.3388
+4736, Croatia,8,19.9722
+4737, Croatia,9,16.2515
+4738, Croatia,10,11.212
+4739, Croatia,11,6.06964
+4740, Croatia,12,1.8552
+4741, Bangladesh,1,18.2593
+4742, Bangladesh,2,20.555
+4743, Bangladesh,3,24.9875
+4744, Bangladesh,4,27.5792
+4745, Bangladesh,5,28.0797
+4746, Bangladesh,6,28.1447
+4747, Bangladesh,7,27.9934
+4748, Bangladesh,8,28.0489
+4749, Bangladesh,9,28.0105
+4750, Bangladesh,10,26.7488
+4751, Bangladesh,11,23.0966
+4752, Bangladesh,12,19.3211
+4753, El Salvador,1,22.6386
+4754, El Salvador,2,23.1705
+4755, El Salvador,3,24.4552
+4756, El Salvador,4,25.2679
+4757, El Salvador,5,24.9537
+4758, El Salvador,6,24.1157
+4759, El Salvador,7,24.3103
+4760, El Salvador,8,24.183
+4761, El Salvador,9,23.7068
+4762, El Salvador,10,23.4214
+4763, El Salvador,11,22.655
+4764, El Salvador,12,22.4065
+4765, Iraq,1,8.84445
+4766, Iraq,2,11.0505
+4767, Iraq,3,14.9421
+4768, Iraq,4,20.5809
+4769, Iraq,5,26.4876
+4770, Iraq,6,30.7298
+4771, Iraq,7,33.2053
+4772, Iraq,8,32.9997
+4773, Iraq,9,29.4053
+4774, Iraq,10,23.783
+4775, Iraq,11,16.1114
+4776, Iraq,12,10.3543
+4777, Panama,1,24.829
+4778, Panama,2,25.1581
+4779, Panama,3,26.0085
+4780, Panama,4,26.3528
+4781, Panama,5,26.0122
+4782, Panama,6,25.3066
+4783, Panama,7,25.5632
+4784, Panama,8,25.2635
+4785, Panama,9,24.9441
+4786, Panama,10,24.8249
+4787, Panama,11,24.4816
+4788, Panama,12,24.4997
+4789, Romania,1,-3.29788
+4790, Romania,2,-1.47972
+4791, Romania,3,3.53986
+4792, Romania,4,9.4298
+4793, Romania,5,14.69
+4794, Romania,6,18.0297
+4795, Romania,7,19.9396
+4796, Romania,8,19.4512
+4797, Romania,9,15.3285
+4798, Romania,10,9.80468
+4799, Romania,11,4.13338
+4800, Romania,12,-0.900576
+4801, Comoros,1,26.629
+4802, Comoros,2,26.5226
+4803, Comoros,3,26.8077
+4804, Comoros,4,26.5059
+4805, Comoros,5,25.6482
+4806, Comoros,6,24.1383
+4807, Comoros,7,23.3887
+4808, Comoros,8,23.7735
+4809, Comoros,9,24.5327
+4810, Comoros,10,25.7532
+4811, Comoros,11,26.6902
+4812, Comoros,12,26.7273
+4813, Cambodia,1,24.9565
+4814, Cambodia,2,26.4469
+4815, Cambodia,3,27.9587
+4816, Cambodia,4,29.0342
+4817, Cambodia,5,28.6066
+4818, Cambodia,6,27.8664
+4819, Cambodia,7,27.3282
+4820, Cambodia,8,27.3551
+4821, Cambodia,9,27.0285
+4822, Cambodia,10,26.6132
+4823, Cambodia,11,25.8914
+4824, Cambodia,12,24.8649
+4825, Seychelles,1,27.2234
+4826, Seychelles,2,27.5658
+4827, Seychelles,3,28.0483
+4828, Seychelles,4,28.2436
+4829, Seychelles,5,27.7717
+4830, Seychelles,6,26.5351
+4831, Seychelles,7,25.6637
+4832, Seychelles,8,25.7469
+4833, Seychelles,9,26.3183
+4834, Seychelles,10,26.8629
+4835, Seychelles,11,27.306
+4836, Seychelles,12,27.2928
+4837, Haiti,1,22.3451
+4838, Haiti,2,22.6462
+4839, Haiti,3,23.3261
+4840, Haiti,4,24.0749
+4841, Haiti,5,24.8191
+4842, Haiti,6,25.5982
+4843, Haiti,7,25.8022
+4844, Haiti,8,26.0549
+4845, Haiti,9,25.8346
+4846, Haiti,10,25.2471
+4847, Haiti,11,24.0932
+4848, Haiti,12,22.9534
+4849, Cuba,1,22.6039
+4850, Cuba,2,22.7668
+4851, Cuba,3,23.8328
+4852, Cuba,4,24.8723
+4853, Cuba,5,26.0631
+4854, Cuba,6,26.9763
+4855, Cuba,7,27.4124
+4856, Cuba,8,27.5079
+4857, Cuba,9,27.1277
+4858, Cuba,10,26.2376
+4859, Cuba,11,24.5522
+4860, Cuba,12,23.2674
+4861, Lebanon,1,6.82552
+4862, Lebanon,2,7.64923
+4863, Lebanon,3,10.2725
+4864, Lebanon,4,14.222
+4865, Lebanon,5,18.2799
+4866, Lebanon,6,21.653
+4867, Lebanon,7,23.9428
+4868, Lebanon,8,24.3901
+4869, Lebanon,9,22.2069
+4870, Lebanon,10,18.7277
+4871, Lebanon,11,13.1134
+4872, Lebanon,12,8.28934
+4873, Republic of Serbia,1,-1.29761
+4874, Republic of Serbia,2,0.3524
+4875, Republic of Serbia,3,4.96738
+4876, Republic of Serbia,4,10.3369
+4877, Republic of Serbia,5,15.3247
+4878, Republic of Serbia,6,18.7678
+4879, Republic of Serbia,7,20.8559
+4880, Republic of Serbia,8,20.654
+4881, Republic of Serbia,9,16.5597
+4882, Republic of Serbia,10,11.0078
+4883, Republic of Serbia,11,5.48585
+4884, Republic of Serbia,12,1.2012
+4885, United Kingdom,1,3.30053
+4886, United Kingdom,2,3.33742
+4887, United Kingdom,3,4.91099
+4888, United Kingdom,4,7.03514
+4889, United Kingdom,5,10.0673
+4890, United Kingdom,6,12.8138
+4891, United Kingdom,7,14.6
+4892, United Kingdom,8,14.4261
+4893, United Kingdom,9,12.3639
+4894, United Kingdom,10,9.29805
+4895, United Kingdom,11,5.81912
+4896, United Kingdom,12,3.98128
+4897, Solomon Islands,1,26.2602
+4898, Solomon Islands,2,25.9564
+4899, Solomon Islands,3,25.8238
+4900, Solomon Islands,4,25.705
+4901, Solomon Islands,5,25.4961
+4902, Solomon Islands,6,25.1707
+4903, Solomon Islands,7,24.6831
+4904, Solomon Islands,8,24.8868
+4905, Solomon Islands,9,25.4483
+4906, Solomon Islands,10,25.8458
+4907, Solomon Islands,11,26.0028
+4908, Solomon Islands,12,26.2612
+4909, Pakistan,1,8.5391
+4910, Pakistan,2,10.6435
+4911, Pakistan,3,15.9856
+4912, Pakistan,4,21.5407
+4913, Pakistan,5,26.1633
+4914, Pakistan,6,29.044
+4915, Pakistan,7,28.8537
+4916, Pakistan,8,27.6679
+4917, Pakistan,9,25.281
+4918, Pakistan,10,20.9058
+4919, Pakistan,11,15.1604
+4920, Pakistan,12,10.3005
+4921, Yemen,1,18.5186
+4922, Yemen,2,19.453
+4923, Yemen,3,20.9441
+4924, Yemen,4,23.7615
+4925, Yemen,5,26.1291
+4926, Yemen,6,27.954
+4927, Yemen,7,27.1349
+4928, Yemen,8,26.9304
+4929, Yemen,9,26.2705
+4930, Yemen,10,23.1572
+4931, Yemen,11,20.5008
+4932, Yemen,12,19.2665
+4933, Liechtenstein,1,-5.09611
+4934, Liechtenstein,2,-4.6776
+4935, Liechtenstein,3,-1.9062
+4936, Liechtenstein,4,1.17893
+4937, Liechtenstein,5,5.46373
+4938, Liechtenstein,6,8.67227
+4939, Liechtenstein,7,10.6676
+4940, Liechtenstein,8,10.4634
+4941, Liechtenstein,9,7.89023
+4942, Liechtenstein,10,4.0948
+4943, Liechtenstein,11,-0.827104
+4944, Liechtenstein,12,-3.71425
+4945, Jamaica,1,23.4136
+4946, Jamaica,2,23.4966
+4947, Jamaica,3,24.0271
+4948, Jamaica,4,24.7157
+4949, Jamaica,5,25.0971
+4950, Jamaica,6,25.8507
+4951, Jamaica,7,25.9909
+4952, Jamaica,8,26.3374
+4953, Jamaica,9,25.8465
+4954, Jamaica,10,25.3668
+4955, Jamaica,11,24.7112
+4956, Jamaica,12,24.088
+4957, Saudi Arabia,1,15.4357
+4958, Saudi Arabia,2,17.1158
+4959, Saudi Arabia,3,20.4691
+4960, Saudi Arabia,4,24.5308
+4961, Saudi Arabia,5,28.9809
+4962, Saudi Arabia,6,31.5402
+4963, Saudi Arabia,7,32.0306
+4964, Saudi Arabia,8,32.2304
+4965, Saudi Arabia,9,30.2536
+4966, Saudi Arabia,10,25.9759
+4967, Saudi Arabia,11,21.0114
+4968, Saudi Arabia,12,16.8033
+4969, Afghanistan,1,0.136821
+4970, Afghanistan,2,2.28275
+4971, Afghanistan,3,7.39894
+4972, Afghanistan,4,13.2118
+4973, Afghanistan,5,18.3286
+4974, Afghanistan,6,23.1289
+4975, Afghanistan,7,25.2293
+4976, Afghanistan,8,23.8645
+4977, Afghanistan,9,19.1244
+4978, Afghanistan,10,13.1679
+4979, Afghanistan,11,6.82802
+4980, Afghanistan,12,2.28057
+4981, Angola,1,22.8596
+4982, Angola,2,22.9278
+4983, Angola,3,22.737
+4984, Angola,4,22.2376
+4985, Angola,5,20.5644
+4986, Angola,6,18.6323
+4987, Angola,7,18.1374
+4988, Angola,8,19.9697
+4989, Angola,9,22.1771
+4990, Angola,10,23.3246
+4991, Angola,11,22.9846
+4992, Angola,12,22.8351
+4993, Greenland,1,-25.5689
+4994, Greenland,2,-27.3771
+4995, Greenland,3,-28.6072
+4996, Greenland,4,-22.3783
+4997, Greenland,5,-13.0932
+4998, Greenland,6,-6.09756
+4999, Greenland,7,-2.93182
+5000, Greenland,8,-5.68464
+5001, Greenland,9,-12.999
+5002, Greenland,10,-19.3999
+5003, Greenland,11,-24.2859
+5004, Greenland,12,-25.9804
+5005, Cameroon,1,24.1056
+5006, Cameroon,2,25.6133
+5007, Cameroon,3,26.6477
+5008, Cameroon,4,26.7228
+5009, Cameroon,5,25.716
+5010, Cameroon,6,24.4928
+5011, Cameroon,7,23.5606
+5012, Cameroon,8,23.3619
+5013, Cameroon,9,23.9188
+5014, Cameroon,10,24.5106
+5015, Cameroon,11,24.6085
+5016, Cameroon,12,23.9386
+5017, Spain,1,5.33426
+5018, Spain,2,6.4545
+5019, Spain,3,8.8133
+5020, Spain,4,10.9682
+5021, Spain,5,14.5316
+5022, Spain,6,18.7442
+5023, Spain,7,21.9998
+5024, Spain,8,22.0116
+5025, Spain,9,18.7528
+5026, Spain,10,13.8178
+5027, Spain,11,8.85658
+5028, Spain,12,5.95175
+5029, Peru,1,20.275
+5030, Peru,2,20.298
+5031, Peru,3,20.162
+5032, Peru,4,19.9268
+5033, Peru,5,19.3083
+5034, Peru,6,18.4695
+5035, Peru,7,18.0859
+5036, Peru,8,18.7303
+5037, Peru,9,19.3786
+5038, Peru,10,19.7276
+5039, Peru,11,20.1085
+5040, Peru,12,20.0777
+5041, Gabon,1,25.7996
+5042, Gabon,2,25.9759
+5043, Gabon,3,26.1087
+5044, Gabon,4,26.0324
+5045, Gabon,5,25.5213
+5046, Gabon,6,24.1912
+5047, Gabon,7,23.1625
+5048, Gabon,8,23.4528
+5049, Gabon,9,24.641
+5050, Gabon,10,25.2744
+5051, Gabon,11,25.1429
+5052, Gabon,12,25.1052
+5053, Switzerland,1,-2.47997
+5054, Switzerland,2,-1.65613
+5055, Switzerland,3,1.47685
+5056, Switzerland,4,4.84465
+5057, Switzerland,5,9.10113
+5058, Switzerland,6,12.4285
+5059, Switzerland,7,14.3925
+5060, Switzerland,8,13.99
+5061, Switzerland,9,11.0793
+5062, Switzerland,10,6.67829
+5063, Switzerland,11,1.80625
+5064, Switzerland,12,-1.17553
+5065, Honduras,1,21.5671
+5066, Honduras,2,22.2048
+5067, Honduras,3,23.5151
+5068, Honduras,4,24.5417
+5069, Honduras,5,24.9462
+5070, Honduras,6,24.448
+5071, Honduras,7,24.1002
+5072, Honduras,8,24.3078
+5073, Honduras,9,24.2808
+5074, Honduras,10,23.6426
+5075, Honduras,11,22.3825
+5076, Honduras,12,21.8926
+5077, Dominica,1,22.8227
+5078, Dominica,2,22.6657
+5079, Dominica,3,22.9428
+5080, Dominica,4,23.5634
+5081, Dominica,5,24.5098
+5082, Dominica,6,25.0529
+5083, Dominica,7,25.0516
+5084, Dominica,8,25.2351
+5085, Dominica,9,25.0339
+5086, Dominica,10,24.715
+5087, Dominica,11,24.3022
+5088, Dominica,12,23.4625
+5089, Morocco,1,9.46539
+5090, Morocco,2,10.9588
+5091, Morocco,3,13.2609
+5092, Morocco,4,15.6173
+5093, Morocco,5,19.1554
+5094, Morocco,6,23.0402
+5095, Morocco,7,26.4535
+5096, Morocco,8,26.5114
+5097, Morocco,9,22.8337
+5098, Morocco,10,18.3661
+5099, Morocco,11,13.8585
+5100, Morocco,12,10.3346
+5101, Mali,1,21.1534
+5102, Mali,2,23.9361
+5103, Mali,3,27.3852
+5104, Mali,4,30.6305
+5105, Mali,5,33.0741
+5106, Mali,6,33.3807
+5107, Mali,7,31.9144
+5108, Mali,8,30.3851
+5109, Mali,9,30.4904
+5110, Mali,10,29.5129
+5111, Mali,11,25.7279
+5112, Mali,12,21.8068
+5113, Congo (Democratic Republic of the),1,24.2443
+5114, Congo (Democratic Republic of the),2,24.5368
+5115, Congo (Democratic Republic of the),3,24.6802
+5116, Congo (Democratic Republic of the),4,24.5525
+5117, Congo (Democratic Republic of the),5,24.2869
+5118, Congo (Democratic Republic of the),6,23.4134
+5119, Congo (Democratic Republic of the),7,22.8982
+5120, Congo (Democratic Republic of the),8,23.5509
+5121, Congo (Democratic Republic of the),9,24.1397
+5122, Congo (Democratic Republic of the),10,24.3517
+5123, Congo (Democratic Republic of the),11,24.2384
+5124, Congo (Democratic Republic of the),12,24.0527
+5125, Russia,1,-26.7362
+5126, Russia,2,-24.464
+5127, Russia,3,-17.0096
+5128, Russia,4,-6.63151
+5129, Russia,5,2.89741
+5130, Russia,6,11.1176
+5131, Russia,7,14.8051
+5132, Russia,8,12.2073
+5133, Russia,9,5.68478
+5134, Russia,10,-4.84652
+5135, Russia,11,-17.3949
+5136, Russia,12,-24.4526
+5137, United States,1,-5.82473
+5138, United States,2,-3.90952
+5139, United States,3,0.144156
+5140, United States,4,6.10455
+5141, United States,5,12.2239
+5142, United States,6,17.2707
+5143, United States,7,20.0462
+5144, United States,8,19.0023
+5145, United States,9,14.6885
+5146, United States,10,8.05248
+5147, United States,11,0.567265
+5148, United States,12,-4.38686
+5149, China,1,-8.62116
+5150, China,2,-5.72268
+5151, China,3,0.474932
+5152, China,4,7.64447
+5153, China,5,13.0868
+5154, China,6,17.2456
+5155, China,7,19.5928
+5156, China,8,18.6481
+5157, China,9,14.0841
+5158, China,10,7.47245
+5159, China,11,-0.531084
+5160, China,12,-6.68683
+5161, Ghana,1,26.8265
+5162, Ghana,2,28.9548
+5163, Ghana,3,29.5212
+5164, Ghana,4,29.167
+5165, Ghana,5,28.2375
+5166, Ghana,6,26.6398
+5167, Ghana,7,25.7838
+5168, Ghana,8,25.3269
+5169, Ghana,9,25.9085
+5170, Ghana,10,26.8123
+5171, Ghana,11,27.3383
+5172, Ghana,12,26.5862
+5173, Colombia,1,24.5364
+5174, Colombia,2,24.8853
+5175, Colombia,3,25.0262
+5176, Colombia,4,24.729
+5177, Colombia,5,24.2485
+5178, Colombia,6,23.8231
+5179, Colombia,7,23.7573
+5180, Colombia,8,24.0634
+5181, Colombia,9,24.3025
+5182, Colombia,10,24.2966
+5183, Colombia,11,24.3709
+5184, Colombia,12,24.354
+5185, Zimbabwe,1,24.1629
+5186, Zimbabwe,2,23.8777
+5187, Zimbabwe,3,23.1408
+5188, Zimbabwe,4,21.442
+5189, Zimbabwe,5,18.7071
+5190, Zimbabwe,6,16.183
+5191, Zimbabwe,7,15.7919
+5192, Zimbabwe,8,17.9915
+5193, Zimbabwe,9,21.5059
+5194, Zimbabwe,10,24.2508
+5195, Zimbabwe,11,24.6933
+5196, Zimbabwe,12,24.2712
+5197, Turkmenistan,1,1.09956
+5198, Turkmenistan,2,3.03675
+5199, Turkmenistan,3,8.33695
+5200, Turkmenistan,4,15.7034
+5201, Turkmenistan,5,21.9706
+5202, Turkmenistan,6,26.6183
+5203, Turkmenistan,7,29.0521
+5204, Turkmenistan,8,27.4138
+5205, Turkmenistan,9,21.8402
+5206, Turkmenistan,10,14.6904
+5207, Turkmenistan,11,8.08312
+5208, Turkmenistan,12,2.96533
+5209, Norway,1,-8.44977
+5210, Norway,2,-8.31302
+5211, Norway,3,-5.3077
+5212, Norway,4,-0.811957
+5213, Norway,5,4.59649
+5214, Norway,6,9.21289
+5215, Norway,7,12.1493
+5216, Norway,8,10.7971
+5217, Norway,9,6.7747
+5218, Norway,10,1.36804
+5219, Norway,11,-3.37367
+5220, Norway,12,-6.35559
+5221, Venezuela,1,24.9763
+5222, Venezuela,2,25.4685
+5223, Venezuela,3,25.9976
+5224, Venezuela,4,26.1021
+5225, Venezuela,5,25.5813
+5226, Venezuela,6,24.8467
+5227, Venezuela,7,24.704
+5228, Venezuela,8,24.9938
+5229, Venezuela,9,25.3146
+5230, Venezuela,10,25.4418
+5231, Venezuela,11,25.43
+5232, Venezuela,12,24.9929
+5233, Belize,1,22.3342
+5234, Belize,2,23.0358
+5235, Belize,3,24.4747
+5236, Belize,4,26.0383
+5237, Belize,5,26.8859
+5238, Belize,6,26.9343
+5239, Belize,7,26.3886
+5240, Belize,8,26.6717
+5241, Belize,9,26.5947
+5242, Belize,10,25.5805
+5243, Belize,11,23.4177
+5244, Belize,12,22.6477
+5245, Antigua and Barbuda,1,23.9693
+5246, Antigua and Barbuda,2,23.9302
+5247, Antigua and Barbuda,3,24.1746
+5248, Antigua and Barbuda,4,24.7017
+5249, Antigua and Barbuda,5,25.4432
+5250, Antigua and Barbuda,6,26.0837
+5251, Antigua and Barbuda,7,26.3051
+5252, Antigua and Barbuda,8,26.5334
+5253, Antigua and Barbuda,9,26.4222
+5254, Antigua and Barbuda,10,26.116
+5255, Antigua and Barbuda,11,25.5621
+5256, Antigua and Barbuda,12,24.6567
+5257, Brazil,1,25.6313
+5258, Brazil,2,25.6812
+5259, Brazil,3,25.4937
+5260, Brazil,4,25.0693
+5261, Brazil,5,24.2067
+5262, Brazil,6,23.4509
+5263, Brazil,7,23.335
+5264, Brazil,8,24.2288
+5265, Brazil,9,25.2235
+5266, Brazil,10,25.7242
+5267, Brazil,11,25.7288
+5268, Brazil,12,25.6883
+5269, Myanmar (Burma),1,18.0323
+5270, Myanmar (Burma),2,19.6081
+5271, Myanmar (Burma),3,22.6351
+5272, Myanmar (Burma),4,25.3398
+5273, Myanmar (Burma),5,25.6298
+5274, Myanmar (Burma),6,25.1979
+5275, Myanmar (Burma),7,24.9635
+5276, Myanmar (Burma),8,24.8751
+5277, Myanmar (Burma),9,24.9398
+5278, Myanmar (Burma),10,24.0017
+5279, Myanmar (Burma),11,21.3911
+5280, Myanmar (Burma),12,18.6211
+5281, Korea,1,-8.02639
+5282, Korea,2,-5.30856
+5283, Korea,3,0.692999
+5284, Korea,4,8.12768
+5285, Korea,5,13.7025
+5286, Korea,6,18.4265
+5287, Korea,7,22.0368
+5288, Korea,8,22.3137
+5289, Korea,9,16.8434
+5290, Korea,10,10.2627
+5291, Korea,11,2.39864
+5292, Korea,12,-5.11603
+5293, Papua New Guinea,1,25.5865
+5294, Papua New Guinea,2,25.4838
+5295, Papua New Guinea,3,25.4579
+5296, Papua New Guinea,4,25.3412
+5297, Papua New Guinea,5,25.0148
+5298, Papua New Guinea,6,24.509
+5299, Papua New Guinea,7,24.0078
+5300, Papua New Guinea,8,23.991
+5301, Papua New Guinea,9,24.4863
+5302, Papua New Guinea,10,25.0509
+5303, Papua New Guinea,11,25.4307
+5304, Papua New Guinea,12,25.6673
+5305, Nigeria,1,24.7526
+5306, Nigeria,2,27.1613
+5307, Nigeria,3,29.3954
+5308, Nigeria,4,30.0601
+5309, Nigeria,5,29.0965
+5310, Nigeria,6,27.434
+5311, Nigeria,7,25.9713
+5312, Nigeria,8,25.2428
+5313, Nigeria,9,26.0386
+5314, Nigeria,10,26.9401
+5315, Nigeria,11,26.353
+5316, Nigeria,12,24.9346
+5317, Zambia,1,23.1296
+5318, Zambia,2,23.1947
+5319, Zambia,3,23.021
+5320, Zambia,4,22.0363
+5321, Zambia,5,19.8172
+5322, Zambia,6,17.6731
+5323, Zambia,7,17.1787
+5324, Zambia,8,19.5109
+5325, Zambia,9,22.8988
+5326, Zambia,10,24.9776
+5327, Zambia,11,24.5591
+5328, Zambia,12,23.4456
+5329, Swaziland,1,23.4397
+5330, Swaziland,2,23.3003
+5331, Swaziland,3,22.2562
+5332, Swaziland,4,20.12
+5333, Swaziland,5,17.571
+5334, Swaziland,6,15.0694
+5335, Swaziland,7,15.0406
+5336, Swaziland,8,16.7383
+5337, Swaziland,9,18.9162
+5338, Swaziland,10,20.2268
+5339, Swaziland,11,21.3197
+5340, Swaziland,12,22.7379
+5341, Barbados,1,24.8426
+5342, Barbados,2,24.8004
+5343, Barbados,3,25.1766
+5344, Barbados,4,25.7877
+5345, Barbados,5,26.5494
+5346, Barbados,6,26.632
+5347, Barbados,7,26.5138
+5348, Barbados,8,26.7014
+5349, Barbados,9,26.6832
+5350, Barbados,10,26.4978
+5351, Barbados,11,26.2258
+5352, Barbados,12,25.4711
+5353, Latvia,1,-5.31175
+5354, Latvia,2,-5.0803
+5355, Latvia,3,-1.39381
+5356, Latvia,4,5.22786
+5357, Latvia,5,11.1931
+5358, Latvia,6,14.9097
+5359, Latvia,7,17.2513
+5360, Latvia,8,16.3472
+5361, Latvia,9,11.8697
+5362, Latvia,10,6.43781
+5363, Latvia,11,1.23421
+5364, Latvia,12,-3.04321
+5365, United Arab Emirates,1,18.4893
+5366, United Arab Emirates,2,19.4185
+5367, United Arab Emirates,3,22.5368
+5368, United Arab Emirates,4,26.68
+5369, United Arab Emirates,5,30.7315
+5370, United Arab Emirates,6,32.4788
+5371, United Arab Emirates,7,33.6392
+5372, United Arab Emirates,8,33.4326
+5373, United Arab Emirates,9,31.6802
+5374, United Arab Emirates,10,28.2679
+5375, United Arab Emirates,11,24.1648
+5376, United Arab Emirates,12,20.3708
+5377, Kuwait,1,12.5593
+5378, Kuwait,2,14.7742
+5379, Kuwait,3,19.1717
+5380, Kuwait,4,24.4256
+5381, Kuwait,5,30.694
+5382, Kuwait,6,34.4886
+5383, Kuwait,7,36.0121
+5384, Kuwait,8,35.7782
+5385, Kuwait,9,32.7405
+5386, Kuwait,10,27.2408
+5387, Kuwait,11,20.007
+5388, Kuwait,12,14.1612
+5389, Egypt,1,13.2124
+5390, Egypt,2,14.8666
+5391, Egypt,3,18.0245
+5392, Egypt,4,22.5097
+5393, Egypt,5,26.6011
+5394, Egypt,6,28.9383
+5395, Egypt,7,29.4711
+5396, Egypt,8,29.5994
+5397, Egypt,9,27.6125
+5398, Egypt,10,24.6549
+5399, Egypt,11,19.3098
+5400, Egypt,12,14.6976
+5401, Belgium,1,2.25561
+5402, Belgium,2,2.87273
+5403, Belgium,3,5.72815
+5404, Belgium,4,8.73362
+5405, Belgium,5,12.8804
+5406, Belgium,6,15.7181
+5407, Belgium,7,17.6488
+5408, Belgium,8,17.4184
+5409, Belgium,9,14.5832
+5410, Belgium,10,10.463
+5411, Belgium,11,5.89661
+5412, Belgium,12,3.29434
+5413, Sudan,1,20.7068
+5414, Sudan,2,22.4734
+5415, Sudan,3,25.5862
+5416, Sudan,4,28.8636
+5417, Sudan,5,31.0213
+5418, Sudan,6,31.3993
+5419, Sudan,7,30.0791
+5420, Sudan,8,29.3802
+5421, Sudan,9,29.4107
+5422, Sudan,10,28.534
+5423, Sudan,11,24.7925
+5424, Sudan,12,21.5635
+5425, Italy,1,3.48236
+5426, Italy,2,4.32033
+5427, Italy,3,6.95717
+5428, Italy,4,10.1056
+5429, Italy,5,14.3356
+5430, Italy,6,18.1648
+5431, Italy,7,20.7575
+5432, Italy,8,20.7004
+5433, Italy,9,17.4539
+5434, Italy,10,12.9895
+5435, Italy,11,8.32804
+5436, Italy,12,4.76708
+5437, Finland,1,-10.7632
+5438, Finland,2,-10.569
+5439, Finland,3,-6.09824
+5440, Finland,4,0.178083
+5441, Finland,5,6.78613
+5442, Finland,6,12.471
+5443, Finland,7,15.5046
+5444, Finland,8,13.4224
+5445, Finland,9,8.22357
+5446, Finland,10,1.97183
+5447, Finland,11,-3.73124
+5448, Finland,12,-8.12985
+5449, Northern Mariana Islands,1,26.2687
+5450, Northern Mariana Islands,2,26.1883
+5451, Northern Mariana Islands,3,26.5698
+5452, Northern Mariana Islands,4,27.2906
+5453, Northern Mariana Islands,5,27.7897
+5454, Northern Mariana Islands,6,28.2543
+5455, Northern Mariana Islands,7,28.0439
+5456, Northern Mariana Islands,8,27.7891
+5457, Northern Mariana Islands,9,27.9526
+5458, Northern Mariana Islands,10,27.9024
+5459, Northern Mariana Islands,11,27.6619
+5460, Northern Mariana Islands,12,26.9854
+5461, Trinidad and Tobago,1,24.8914
+5462, Trinidad and Tobago,2,25.017
+5463, Trinidad and Tobago,3,25.5368
+5464, Trinidad and Tobago,4,26.3618
+5465, Trinidad and Tobago,5,26.7557
+5466, Trinidad and Tobago,6,26.42
+5467, Trinidad and Tobago,7,26.2837
+5468, Trinidad and Tobago,8,26.5361
+5469, Trinidad and Tobago,9,26.7
+5470, Trinidad and Tobago,10,26.5672
+5471, Trinidad and Tobago,11,26.1937
+5472, Trinidad and Tobago,12,25.3708
+5473, Federated States of Micronesia,1,27.0139
+5474, Federated States of Micronesia,2,27.0708
+5475, Federated States of Micronesia,3,27.2006
+5476, Federated States of Micronesia,4,27.2142
+5477, Federated States of Micronesia,5,27.2593
+5478, Federated States of Micronesia,6,27.0595
+5479, Federated States of Micronesia,7,26.8792
+5480, Federated States of Micronesia,8,26.9598
+5481, Federated States of Micronesia,9,26.8963
+5482, Federated States of Micronesia,10,26.986
+5483, Federated States of Micronesia,11,27.02
+5484, Federated States of Micronesia,12,27.0972
+5485, Malaysia,1,24.8965
+5486, Malaysia,2,24.9607
+5487, Malaysia,3,25.4085
+5488, Malaysia,4,25.7856
+5489, Malaysia,5,25.9164
+5490, Malaysia,6,25.6886
+5491, Malaysia,7,25.4319
+5492, Malaysia,8,25.4425
+5493, Malaysia,9,25.3449
+5494, Malaysia,10,25.2498
+5495, Malaysia,11,25.1191
+5496, Malaysia,12,25.0249
+5497, Sierra Leone,1,25.3617
+5498, Sierra Leone,2,27.0319
+5499, Sierra Leone,3,27.8053
+5500, Sierra Leone,4,27.7262
+5501, Sierra Leone,5,26.9494
+5502, Sierra Leone,6,25.9538
+5503, Sierra Leone,7,24.9243
+5504, Sierra Leone,8,24.6574
+5505, Sierra Leone,9,25.3544
+5506, Sierra Leone,10,25.8592
+5507, Sierra Leone,11,26.0852
+5508, Sierra Leone,12,25.4233
+5509, Netherlands,1,2.35084
+5510, Netherlands,2,2.73178
+5511, Netherlands,3,5.44064
+5512, Netherlands,4,8.29516
+5513, Netherlands,5,12.5408
+5514, Netherlands,6,15.1483
+5515, Netherlands,7,17.1905
+5516, Netherlands,8,17.0568
+5517, Netherlands,9,14.2456
+5518, Netherlands,10,10.27
+5519, Netherlands,11,6.0215
+5520, Netherlands,12,3.61065
+5521, Tuvalu,1,28.1465
+5522, Tuvalu,2,28.1068
+5523, Tuvalu,3,28.1007
+5524, Tuvalu,4,28.1751
+5525, Tuvalu,5,28.328
+5526, Tuvalu,6,28.0359
+5527, Tuvalu,7,27.8398
+5528, Tuvalu,8,27.9247
+5529, Tuvalu,9,28.0591
+5530, Tuvalu,10,28.0967
+5531, Tuvalu,11,28.2
+5532, Tuvalu,12,28.2066
+5533, Nicaragua,1,23.5657
+5534, Nicaragua,2,24.1215
+5535, Nicaragua,3,25.0866
+5536, Nicaragua,4,25.8858
+5537, Nicaragua,5,25.9024
+5538, Nicaragua,6,25.189
+5539, Nicaragua,7,25.1177
+5540, Nicaragua,8,24.9956
+5541, Nicaragua,9,24.9653
+5542, Nicaragua,10,24.777
+5543, Nicaragua,11,23.875
+5544, Nicaragua,12,23.6044
+5545, Luxembourg,1,0.925495
+5546, Luxembourg,2,1.86698
+5547, Luxembourg,3,5.04716
+5548, Luxembourg,4,8.37069
+5549, Luxembourg,5,12.6767
+5550, Luxembourg,6,15.6263
+5551, Luxembourg,7,17.4849
+5552, Luxembourg,8,17.0756
+5553, Luxembourg,9,14.0635
+5554, Luxembourg,10,9.67469
+5555, Luxembourg,11,4.7564
+5556, Luxembourg,12,2.06151
+5557, Ecuador,1,21.928
+5558, Ecuador,2,22.0029
+5559, Ecuador,3,22.0971
+5560, Ecuador,4,22.0858
+5561, Ecuador,5,21.6666
+5562, Ecuador,6,20.9632
+5563, Ecuador,7,20.5352
+5564, Ecuador,8,20.9293
+5565, Ecuador,9,21.2506
+5566, Ecuador,10,21.4464
+5567, Ecuador,11,21.541
+5568, Ecuador,12,21.669
+5569, Bolivia,1,22.5835
+5570, Bolivia,2,22.4911
+5571, Bolivia,3,22.0548
+5572, Bolivia,4,21.0436
+5573, Bolivia,5,19.1391
+5574, Bolivia,6,17.7419
+5575, Bolivia,7,17.7027
+5576, Bolivia,8,19.2397
+5577, Bolivia,9,21.4096
+5578, Bolivia,10,22.3128
+5579, Bolivia,11,22.7602
+5580, Bolivia,12,22.7384
+5581, Tonga,1,26.2532
+5582, Tonga,2,26.7648
+5583, Tonga,3,26.1438
+5584, Tonga,4,25.4067
+5585, Tonga,5,24.1977
+5586, Tonga,6,23.4445
+5587, Tonga,7,22.7118
+5588, Tonga,8,22.5643
+5589, Tonga,9,23.0547
+5590, Tonga,10,23.6677
+5591, Tonga,11,24.6257
+5592, Tonga,12,25.4134
+5593, Slovakia,1,-3.53985
+5594, Slovakia,2,-1.66613
+5595, Slovakia,3,2.71668
+5596, Slovakia,4,7.95304
+5597, Slovakia,5,12.9619
+5598, Slovakia,6,16.0158
+5599, Slovakia,7,17.8457
+5600, Slovakia,8,17.3725
+5601, Slovakia,9,13.4953
+5602, Slovakia,10,8.43606
+5603, Slovakia,11,2.76591
+5604, Slovakia,12,-1.73191
+5605, Iran,1,4.49298
+5606, Iran,2,6.6335
+5607, Iran,3,11.1949
+5608, Iran,4,16.7107
+5609, Iran,5,22.0426
+5610, Iran,6,26.4836
+5611, Iran,7,28.5467
+5612, Iran,8,27.4372
+5613, Iran,9,23.589
+5614, Iran,10,18.044
+5615, Iran,11,11.5586
+5616, Iran,12,6.3559
+5617, Burundi,1,19.9955
+5618, Burundi,2,20.1102
+5619, Burundi,3,20.0684
+5620, Burundi,4,19.9419
+5621, Burundi,5,19.8187
+5622, Burundi,6,19.2773
+5623, Burundi,7,19.0635
+5624, Burundi,8,20.2632
+5625, Burundi,9,20.9369
+5626, Burundi,10,20.8492
+5627, Burundi,11,20.1199
+5628, Burundi,12,19.7977
+5629, Vanuatu,1,25.1949
+5630, Vanuatu,2,25.2454
+5631, Vanuatu,3,25.0145
+5632, Vanuatu,4,24.3803
+5633, Vanuatu,5,23.437
+5634, Vanuatu,6,22.8179
+5635, Vanuatu,7,22.3302
+5636, Vanuatu,8,22.2748
+5637, Vanuatu,9,22.6053
+5638, Vanuatu,10,23.3362
+5639, Vanuatu,11,24.2158
+5640, Vanuatu,12,24.7501
+5641, Hungary,1,-1.77022
+5642, Hungary,2,0.438515
+5643, Hungary,3,5.26905
+5644, Hungary,4,10.5814
+5645, Hungary,5,15.4939
+5646, Hungary,6,18.7027
+5647, Hungary,7,20.4846
+5648, Hungary,8,19.9892
+5649, Hungary,9,16.0376
+5650, Hungary,10,10.6004
+5651, Hungary,11,4.90001
+5652, Hungary,12,0.260953
+5653, Congo (Republic of the),1,24.8505
+5654, Congo (Republic of the),2,25.408
+5655, Congo (Republic of the),3,25.6494
+5656, Congo (Republic of the),4,25.5844
+5657, Congo (Republic of the),5,25.0956
+5658, Congo (Republic of the),6,23.9755
+5659, Congo (Republic of the),7,23.2578
+5660, Congo (Republic of the),8,23.5222
+5661, Congo (Republic of the),9,24.2006
+5662, Congo (Republic of the),10,24.6697
+5663, Congo (Republic of the),11,24.6064
+5664, Congo (Republic of the),12,24.643
+5665, Austria,1,-3.39615
+5666, Austria,2,-2.15306
+5667, Austria,3,1.58273
+5668, Austria,4,5.65624
+5669, Austria,5,10.3621
+5670, Austria,6,13.5294
+5671, Austria,7,15.4716
+5672, Austria,8,15.142
+5673, Austria,9,11.8639
+5674, Austria,10,7.2545
+5675, Austria,11,1.78738
+5676, Austria,12,-1.97854
+5677, Uganda,1,23.0385
+5678, Uganda,2,23.5465
+5679, Uganda,3,23.4709
+5680, Uganda,4,22.7775
+5681, Uganda,5,22.331
+5682, Uganda,6,21.829
+5683, Uganda,7,21.3156
+5684, Uganda,8,21.5964
+5685, Uganda,9,22.0174
+5686, Uganda,10,22.3918
+5687, Uganda,11,22.4499
+5688, Uganda,12,22.3691
+5689, Philippines,1,24.3448
+5690, Philippines,2,24.4535
+5691, Philippines,3,25.3273
+5692, Philippines,4,26.3276
+5693, Philippines,5,26.6825
+5694, Philippines,6,26.2122
+5695, Philippines,7,25.7114
+5696, Philippines,8,25.6726
+5697, Philippines,9,25.6013
+5698, Philippines,10,25.5235
+5699, Philippines,11,25.1612
+5700, Philippines,12,24.687
+5701, Vietnam,1,19.7009
+5702, Vietnam,2,20.797
+5703, Vietnam,3,22.3498
+5704, Vietnam,4,25.4639
+5705, Vietnam,5,26.9246
+5706, Vietnam,6,27.2193
+5707, Vietnam,7,27.1257
+5708, Vietnam,8,26.9292
+5709, Vietnam,9,26.1872
+5710, Vietnam,10,24.687
+5711, Vietnam,11,22.6573
+5712, Vietnam,12,20.5705
+5713, Indonesia,1,25.701
+5714, Indonesia,2,25.7144
+5715, Indonesia,3,25.915
+5716, Indonesia,4,26.094
+5717, Indonesia,5,26.1827
+5718, Indonesia,6,25.7373
+5719, Indonesia,7,25.4063
+5720, Indonesia,8,25.4908
+5721, Indonesia,9,25.7212
+5722, Indonesia,10,25.998
+5723, Indonesia,11,26.1638
+5724, Indonesia,12,25.8928
+5725, Denmark,1,0.0179267
+5726, Denmark,2,-0.0101126
+5727, Denmark,3,2.34328
+5728, Denmark,4,6.30063
+5729, Denmark,5,10.9919
+5730, Denmark,6,14.3515
+5731, Denmark,7,16.5776
+5732, Denmark,8,16.1994
+5733, Denmark,9,13.1319
+5734, Denmark,10,8.9298
+5735, Denmark,11,4.59684
+5736, Denmark,12,1.60122
+5737, India,1,17.0399
+5738, India,2,19.2726
+5739, India,3,23.6942
+5740, India,4,27.653
+5741, India,5,29.9848
+5742, India,6,29.293
+5743, India,7,27.0885
+5744, India,8,26.3995
+5745, India,9,26.1941
+5746, India,10,24.6522
+5747, India,11,20.7944
+5748, India,12,17.6127
+5749, Australia,1,27.7837
+5750, Australia,2,27.1707
+5751, Australia,3,25.3091
+5752, Australia,4,21.764
+5753, Australia,5,17.7878
+5754, Australia,6,14.7788
+5755, Australia,7,13.9476
+5756, Australia,8,15.6902
+5757, Australia,9,18.9711
+5758, Australia,10,22.3963
+5759, Australia,11,25.1799
+5760, Australia,12,26.9328
+5761, Djibouti,1,23.6577
+5762, Djibouti,2,24.6562
+5763, Djibouti,3,26.2087
+5764, Djibouti,4,27.8551
+5765, Djibouti,5,29.5883
+5766, Djibouti,6,31.5073
+5767, Djibouti,7,32.0887
+5768, Djibouti,8,31.317
+5769, Djibouti,9,30.0779
+5770, Djibouti,10,27.5885
+5771, Djibouti,11,25.5567
+5772, Djibouti,12,23.8953
+5773, Belarus,1,-6.10304
+5774, Belarus,2,-5.29332
+5775, Belarus,3,-0.651439
+5776, Belarus,4,7.01462
+5777, Belarus,5,13.301
+5778, Belarus,6,16.6293
+5779, Belarus,7,18.3795
+5780, Belarus,8,17.3574
+5781, Belarus,9,12.6608
+5782, Belarus,10,6.70249
+5783, Belarus,11,1.07401
+5784, Belarus,12,-3.54882
+5785, St. Lucia,1,24.1979
+5786, St. Lucia,2,24.0569
+5787, St. Lucia,3,24.4933
+5788, St. Lucia,4,25.1954
+5789, St. Lucia,5,26.1759
+5790, St. Lucia,6,26.5587
+5791, St. Lucia,7,26.4025
+5792, St. Lucia,8,26.5705
+5793, St. Lucia,9,26.3914
+5794, St. Lucia,10,26.1201
+5795, St. Lucia,11,25.73
+5796, St. Lucia,12,24.8556
+5797, Republic of Montenegro,1,-1.34255
+5798, Republic of Montenegro,2,-0.295626
+5799, Republic of Montenegro,3,3.46775
+5800, Republic of Montenegro,4,7.89847
+5801, Republic of Montenegro,5,12.775
+5802, Republic of Montenegro,6,16.3246
+5803, Republic of Montenegro,7,18.9456
+5804, Republic of Montenegro,8,18.9103
+5805, Republic of Montenegro,9,14.9234
+5806, Republic of Montenegro,10,9.67469
+5807, Republic of Montenegro,11,4.73806
+5808, Republic of Montenegro,12,0.82488
+5809, Germany,1,-0.295016
+5810, Germany,2,0.573158
+5811, Germany,3,4.05605
+5812, Germany,4,8.01877
+5813, Germany,5,12.5716
+5814, Germany,6,15.6197
+5815, Germany,7,17.5166
+5816, Germany,8,17.1175
+5817, Germany,9,13.8623
+5818, Germany,10,9.08748
+5819, Germany,11,4.19139
+5820, Germany,12,0.98216
+5821, Thailand,1,23.2298
+5822, Thailand,2,25.1853
+5823, Thailand,3,27.4346
+5824, Thailand,4,28.964
+5825, Thailand,5,28.4319
+5826, Thailand,6,27.6591
+5827, Thailand,7,27.2026
+5828, Thailand,8,27.0188
+5829, Thailand,9,26.8274
+5830, Thailand,10,26.2517
+5831, Thailand,11,24.7242
+5832, Thailand,12,22.9772
+5833, Namibia,1,24.4745
+5834, Namibia,2,23.9573
+5835, Namibia,3,22.774
+5836, Namibia,4,20.6071
+5837, Namibia,5,17.2259
+5838, Namibia,6,14.7068
+5839, Namibia,7,14.2599
+5840, Namibia,8,16.1209
+5841, Namibia,9,19.1531
+5842, Namibia,10,21.8688
+5843, Namibia,11,23.1284
+5844, Namibia,12,24.1812
+5845, Mauritius,1,25.5711
+5846, Mauritius,2,25.475
+5847, Mauritius,3,25.4297
+5848, Mauritius,4,24.4048
+5849, Mauritius,5,22.7789
+5850, Mauritius,6,21.1284
+5851, Mauritius,7,20.1552
+5852, Mauritius,8,20.2111
+5853, Mauritius,9,21.0058
+5854, Mauritius,10,22.281
+5855, Mauritius,11,23.6602
+5856, Mauritius,12,24.6956
+5857, Eritrea,1,22.5811
+5858, Eritrea,2,23.4652
+5859, Eritrea,3,24.9184
+5860, Eritrea,4,27.1488
+5861, Eritrea,5,28.6749
+5862, Eritrea,6,29.4838
+5863, Eritrea,7,28.5118
+5864, Eritrea,8,27.7003
+5865, Eritrea,9,27.606
+5866, Eritrea,10,26.9235
+5867, Eritrea,11,25.3151
+5868, Eritrea,12,23.3896
+5869, Cape Verde,1,21.1715
+5870, Cape Verde,2,20.622
+5871, Cape Verde,3,20.8684
+5872, Cape Verde,4,21.3637
+5873, Cape Verde,5,21.9349
+5874, Cape Verde,6,23.141
+5875, Cape Verde,7,24.1902
+5876, Cape Verde,8,25.2282
+5877, Cape Verde,9,25.7996
+5878, Cape Verde,10,25.2373
+5879, Cape Verde,11,24.0756
+5880, Cape Verde,12,22.4134
+5881, France,1,3.24012
+5882, France,2,4.09061
+5883, France,3,6.77288
+5884, France,4,9.46184
+5885, France,5,13.2223
+5886, France,6,16.4828
+5887, France,7,18.7147
+5888, France,8,18.4928
+5889, France,9,15.8028
+5890, France,10,11.5632
+5891, France,11,6.7521
+5892, France,12,4.03314
+5893, Samoa,1,27.2604
+5894, Samoa,2,27.3775
+5895, Samoa,3,27.3831
+5896, Samoa,4,27.3566
+5897, Samoa,5,26.9324
+5898, Samoa,6,26.5004
+5899, Samoa,7,26.089
+5900, Samoa,8,26.0845
+5901, Samoa,9,26.3958
+5902, Samoa,10,26.6111
+5903, Samoa,11,26.9152
+5904, Samoa,12,27.1134
+5905, Sao Tome and Principe,1,24.3911
+5906, Sao Tome and Principe,2,24.8341
+5907, Sao Tome and Principe,3,24.883
+5908, Sao Tome and Principe,4,24.914
+5909, Sao Tome and Principe,5,24.3838
+5910, Sao Tome and Principe,6,22.769
+5911, Sao Tome and Principe,7,21.91
+5912, Sao Tome and Principe,8,21.9201
+5913, Sao Tome and Principe,9,22.6306
+5914, Sao Tome and Principe,10,23.2032
+5915, Sao Tome and Principe,11,23.7638
+5916, Sao Tome and Principe,12,24.1234
+5917, Paraguay,1,27.7728
+5918, Paraguay,2,27.1224
+5919, Paraguay,3,25.9168
+5920, Paraguay,4,23.1751
+5921, Paraguay,5,20.2198
+5922, Paraguay,6,18.6011
+5923, Paraguay,7,18.4687
+5924, Paraguay,8,20.4508
+5925, Paraguay,9,22.6296
+5926, Paraguay,10,24.6223
+5927, Paraguay,11,26.0064
+5928, Paraguay,12,27.323
+5929, Andorra,1,3.39658
+5930, Andorra,2,4.31235
+5931, Andorra,3,6.89539
+5932, Andorra,4,9.13882
+5933, Andorra,5,12.8647
+5934, Andorra,6,16.7022
+5935, Andorra,7,19.5754
+5936, Andorra,8,19.4633
+5937, Andorra,9,16.5922
+5938, Andorra,10,12.1051
+5939, Andorra,11,7.04312
+5940, Andorra,12,4.23189
+5941, Oman,1,19.9836
+5942, Oman,2,20.793
+5943, Oman,3,23.3271
+5944, Oman,4,26.6779
+5945, Oman,5,29.4352
+5946, Oman,6,29.9389
+5947, Oman,7,28.5593
+5948, Oman,8,27.6067
+5949, Oman,9,27.4321
+5950, Oman,10,26.1678
+5951, Oman,11,23.9224
+5952, Oman,12,21.4107
+5953, Armenia,1,-7.3331
+5954, Armenia,2,-5.45137
+5955, Armenia,3,0.177734
+5956, Armenia,4,7.11684
+5957, Armenia,5,12.2383
+5958, Armenia,6,16.5283
+5959, Armenia,7,20.4287
+5960, Armenia,8,20.3058
+5961, Armenia,9,15.7145
+5962, Armenia,10,9.11937
+5963, Armenia,11,2.43758
+5964, Armenia,12,-4.15054
+5965, Algeria,1,12.0633
+5966, Algeria,2,14.6224
+5967, Algeria,3,18.1561
+5968, Algeria,4,22.2359
+5969, Algeria,5,26.5924
+5970, Algeria,6,30.9989
+5971, Algeria,7,32.6333
+5972, Algeria,8,32.0772
+5973, Algeria,9,28.8774
+5974, Algeria,10,23.5789
+5975, Algeria,11,17.5779
+5976, Algeria,12,13.0959
+5977, Kenya,1,24.6811
+5978, Kenya,2,25.5086
+5979, Kenya,3,25.8707
+5980, Kenya,4,25.1683
+5981, Kenya,5,24.2951
+5982, Kenya,6,23.2306
+5983, Kenya,7,22.5954
+5984, Kenya,8,22.967
+5985, Kenya,9,23.7944
+5986, Kenya,10,24.6541
+5987, Kenya,11,24.4075
+5988, Kenya,12,24.3127
+5989, Grenada,1,25.0375
+5990, Grenada,2,25.0834
+5991, Grenada,3,25.6494
+5992, Grenada,4,26.5187
+5993, Grenada,5,27.3586
+5994, Grenada,6,27.3628
+5995, Grenada,7,27.1165
+5996, Grenada,8,27.299
+5997, Grenada,9,27.2697
+5998, Grenada,10,27.0313
+5999, Grenada,11,26.5875
+6000, Grenada,12,25.6803
+6001, Azerbaijan,1,-0.775298
+6002, Azerbaijan,2,0.409282
+6003, Azerbaijan,3,4.41956
+6004, Azerbaijan,4,10.9294
+6005, Azerbaijan,5,16.3681
+6006, Azerbaijan,6,21.4904
+6007, Azerbaijan,7,24.4396
+6008, Azerbaijan,8,24.2365
+6009, Azerbaijan,9,19.5475
+6010, Azerbaijan,10,12.885
+6011, Azerbaijan,11,6.68167
+6012, Azerbaijan,12,1.12744
+6013, Poland,1,-2.57404
+6014, Poland,2,-1.36809
+6015, Poland,3,2.62811
+6016, Poland,4,7.56946
+6017, Poland,5,13.1266
+6018, Poland,6,16.065
+6019, Poland,7,18.0858
+6020, Poland,8,17.4852
+6021, Poland,9,13.459
+6022, Poland,10,8.48859
+6023, Poland,11,3.23851
+6024, Poland,12,-0.538073
+6025, Nepal,1,3.37801
+6026, Nepal,2,4.82285
+6027, Nepal,3,9.33445
+6028, Nepal,4,13.4684
+6029, Nepal,5,16.4697
+6030, Nepal,6,18.4046
+6031, Nepal,7,18.4537
+6032, Nepal,8,18.0643
+6033, Nepal,9,16.7891
+6034, Nepal,10,12.9379
+6035, Nepal,11,8.17565
+6036, Nepal,12,4.77623
+6037, Gambia,1,24.3307
+6038, Gambia,2,26.3459
+6039, Gambia,3,28.0592
+6040, Gambia,4,29.3247
+6041, Gambia,5,29.9436
+6042, Gambia,6,29.3877
+6043, Gambia,7,27.8843
+6044, Gambia,8,27.0464
+6045, Gambia,9,27.1583
+6046, Gambia,10,28.131
+6047, Gambia,11,27.0381
+6048, Gambia,12,24.4795
+6049, St. Kitts and Nevis,1,22.9442
+6050, St. Kitts and Nevis,2,22.8605
+6051, St. Kitts and Nevis,3,23.0965
+6052, St. Kitts and Nevis,4,23.6965
+6053, St. Kitts and Nevis,5,24.5679
+6054, St. Kitts and Nevis,6,25.2519
+6055, St. Kitts and Nevis,7,25.4489
+6056, St. Kitts and Nevis,8,25.6911
+6057, St. Kitts and Nevis,9,25.5743
+6058, St. Kitts and Nevis,10,25.1832
+6059, St. Kitts and Nevis,11,24.6084
+6060, St. Kitts and Nevis,12,23.645
+6061, Tanzania,1,22.9156
+6062, Tanzania,2,23.051
+6063, Tanzania,3,22.9983
+6064, Tanzania,4,22.3726
+6065, Tanzania,5,21.5897
+6066, Tanzania,6,20.3211
+6067, Tanzania,7,19.8637
+6068, Tanzania,8,20.8841
+6069, Tanzania,9,22.248
+6070, Tanzania,10,23.4482
+6071, Tanzania,11,23.5217
+6072, Tanzania,12,23.0031
+6073, Niger,1,19.2253
+6074, Niger,2,22.1526
+6075, Niger,3,26.3061
+6076, Niger,4,30.4167
+6077, Niger,5,32.7844
+6078, Niger,6,32.8307
+6079, Niger,7,31.3006
+6080, Niger,8,30.1109
+6081, Niger,9,30.3468
+6082, Niger,10,28.6371
+6083, Niger,11,24.1949
+6084, Niger,12,20.3099
+6085, Laos,1,19.0268
+6086, Laos,2,20.7278
+6087, Laos,3,23.165
+6088, Laos,4,25.4605
+6089, Laos,5,26.1484
+6090, Laos,6,26.0808
+6091, Laos,7,25.7359
+6092, Laos,8,25.499
+6093, Laos,9,25.1425
+6094, Laos,10,23.8315
+6095, Laos,11,21.6033
+6096, Laos,12,19.3234
+6097, Uruguay,1,23.8701
+6098, Uruguay,2,23.3861
+6099, Uruguay,3,21.3835
+6100, Uruguay,4,17.8272
+6101, Uruguay,5,14.6231
+6102, Uruguay,6,11.7991
+6103, Uruguay,7,11.5117
+6104, Uruguay,8,12.6453
+6105, Uruguay,9,14.2988
+6106, Uruguay,10,16.7627
+6107, Uruguay,11,19.5932
+6108, Uruguay,12,22.2462
+6109, Slovenia,1,-1.37294
+6110, Slovenia,2,0.230153
+6111, Slovenia,3,4.10489
+6112, Slovenia,4,8.29101
+6113, Slovenia,5,12.9285
+6114, Slovenia,6,16.2337
+6115, Slovenia,7,18.2414
+6116, Slovenia,8,17.8148
+6117, Slovenia,9,14.3329
+6118, Slovenia,10,9.54435
+6119, Slovenia,11,4.22992
+6120, Slovenia,12,0.0779108
+6121, Tunisia,1,10.1321
+6122, Tunisia,2,11.5179
+6123, Tunisia,3,14.4063
+6124, Tunisia,4,17.6611
+6125, Tunisia,5,21.7192
+6126, Tunisia,6,26.135
+6127, Tunisia,7,28.7782
+6128, Tunisia,8,28.8622
+6129, Tunisia,9,25.8506
+6130, Tunisia,10,20.9792
+6131, Tunisia,11,15.4832
+6132, Tunisia,12,11.4741
+6133, Fiji,1,25.5822
+6134, Fiji,2,25.8766
+6135, Fiji,3,25.731
+6136, Fiji,4,25.143
+6137, Fiji,5,23.8131
+6138, Fiji,6,22.9531
+6139, Fiji,7,22.153
+6140, Fiji,8,22.4609
+6141, Fiji,9,22.8101
+6142, Fiji,10,23.592
+6143, Fiji,11,24.4259
+6144, Fiji,12,25.0697
+6145, Rwanda,1,19.1104
+6146, Rwanda,2,19.3015
+6147, Rwanda,3,19.2273
+6148, Rwanda,4,19.0182
+6149, Rwanda,5,19.008
+6150, Rwanda,6,18.6953
+6151, Rwanda,7,18.484
+6152, Rwanda,8,19.3068
+6153, Rwanda,9,19.4898
+6154, Rwanda,10,19.3977
+6155, Rwanda,11,19.0549
+6156, Rwanda,12,18.8454
+6157, Ireland,1,4.83018
+6158, Ireland,2,4.95998
+6159, Ireland,3,6.18153
+6160, Ireland,4,7.91036
+6161, Ireland,5,10.4157
+6162, Ireland,6,12.9998
+6163, Ireland,7,14.6756
+6164, Ireland,8,14.4376
+6165, Ireland,9,12.6336
+6166, Ireland,10,9.91865
+6167, Ireland,11,6.77453
+6168, Ireland,12,5.44563
+6169, Monaco,1,2.22437
+6170, Monaco,2,2.52299
+6171, Monaco,3,4.86951
+6172, Monaco,4,7.66018
+6173, Monaco,5,11.5509
+6174, Monaco,6,15.2011
+6175, Monaco,7,17.8616
+6176, Monaco,8,17.7434
+6177, Monaco,9,14.8666
+6178, Monaco,10,10.7177
+6179, Monaco,11,6.17594
+6180, Monaco,12,3.46452
+6181, Israel,1,11.1589
+6182, Israel,2,12.1329
+6183, Israel,3,14.5251
+6184, Israel,4,18.3104
+6185, Israel,5,21.9193
+6186, Israel,6,24.6364
+6187, Israel,7,26.5202
+6188, Israel,8,26.854
+6189, Israel,9,25.0868
+6190, Israel,10,22.2873
+6191, Israel,11,17.3987
+6192, Israel,12,12.8985
+6193, Guinea-Bissau,1,24.5447
+6194, Guinea-Bissau,2,26.4546
+6195, Guinea-Bissau,3,28.1542
+6196, Guinea-Bissau,4,29.2834
+6197, Guinea-Bissau,5,29.3415
+6198, Guinea-Bissau,6,28.0895
+6199, Guinea-Bissau,7,26.5449
+6200, Guinea-Bissau,8,25.9058
+6201, Guinea-Bissau,9,26.4632
+6202, Guinea-Bissau,10,27.2692
+6203, Guinea-Bissau,11,26.8783
+6204, Guinea-Bissau,12,24.6048
+6205, Lithuania,1,-4.83211
+6206, Lithuania,2,-4.29073
+6207, Lithuania,3,-0.366096
+6208, Lithuania,4,6.23938
+6209, Lithuania,5,12.1298
+6210, Lithuania,6,15.5084
+6211, Lithuania,7,17.5812
+6212, Lithuania,8,16.8374
+6213, Lithuania,9,12.4597
+6214, Lithuania,10,6.98454
+6215, Lithuania,11,1.75781
+6216, Lithuania,12,-2.50346
+6217, South Africa,1,23.0612
+6218, South Africa,2,22.7531
+6219, South Africa,3,20.9881
+6220, South Africa,4,17.7547
+6221, South Africa,5,14.1612
+6222, South Africa,6,11.1397
+6223, South Africa,7,10.9426
+6224, South Africa,8,12.8475
+6225, South Africa,9,15.8063
+6226, South Africa,10,18.4495
+6227, South Africa,11,20.4204
+6228, South Africa,12,22.1342
+6229, Libya,1,12.5392
+6230, Libya,2,14.7331
+6231, Libya,3,18.0235
+6232, Libya,4,22.2379
+6233, Libya,5,26.4835
+6234, Libya,6,29.1119
+6235, Libya,7,29.5438
+6236, Libya,8,29.3353
+6237, Libya,9,27.6733
+6238, Libya,10,23.6637
+6239, Libya,11,18.2636
+6240, Libya,12,13.7741
+6241, Ethiopia,1,21.3516
+6242, Ethiopia,2,22.5354
+6243, Ethiopia,3,23.6005
+6244, Ethiopia,4,23.9919
+6245, Ethiopia,5,23.8791
+6246, Ethiopia,6,23.514
+6247, Ethiopia,7,22.5913
+6248, Ethiopia,8,22.2621
+6249, Ethiopia,9,22.7426
+6250, Ethiopia,10,22.3092
+6251, Ethiopia,11,21.534
+6252, Ethiopia,12,20.9655
+6253, Guyana,1,25.1739
+6254, Guyana,2,25.1984
+6255, Guyana,3,25.5489
+6256, Guyana,4,25.7816
+6257, Guyana,5,25.7026
+6258, Guyana,6,25.4483
+6259, Guyana,7,25.3712
+6260, Guyana,8,25.7823
+6261, Guyana,9,26.2326
+6262, Guyana,10,26.4765
+6263, Guyana,11,26.406
+6264, Guyana,12,25.6563
+6265, Estonia,1,-5.75756
+6266, Estonia,2,-5.91311
+6267, Estonia,3,-2.31142
+6268, Estonia,4,4.18156
+6269, Estonia,5,10.2041
+6270, Estonia,6,14.3806
+6271, Estonia,7,17.1329
+6272, Estonia,8,15.9866
+6273, Estonia,9,11.3721
+6274, Estonia,10,5.96999
+6275, Estonia,11,0.858186
+6276, Estonia,12,-3.21493
+6277, Botswana,1,26.3041
+6278, Botswana,2,25.6337
+6279, Botswana,3,24.2767
+6280, Botswana,4,21.5799
+6281, Botswana,5,17.6546
+6282, Botswana,6,14.5452
+6283, Botswana,7,14.2733
+6284, Botswana,8,17.0906
+6285, Botswana,9,21.1997
+6286, Botswana,10,24.5387
+6287, Botswana,11,25.6018
+6288, Botswana,12,26.0478
+6289, Burkina Faso,1,24.9521
+6290, Burkina Faso,2,27.7074
+6291, Burkina Faso,3,30.6434
+6292, Burkina Faso,4,32.091
+6293, Burkina Faso,5,31.5169
+6294, Burkina Faso,6,29.2974
+6295, Burkina Faso,7,27.3065
+6296, Burkina Faso,8,26.2719
+6297, Burkina Faso,9,27.0478
+6298, Burkina Faso,10,28.7244
+6299, Burkina Faso,11,27.6266
+6300, Burkina Faso,12,25.4475
+6301, New Caledonia,1,24.9069
+6302, New Caledonia,2,25.0032
+6303, New Caledonia,3,24.4115
+6304, New Caledonia,4,23.0445
+6305, New Caledonia,5,21.3384
+6306, New Caledonia,6,20.0403
+6307, New Caledonia,7,19.0781
+6308, New Caledonia,8,19.0778
+6309, New Caledonia,9,19.8554
+6310, New Caledonia,10,21.3972
+6311, New Caledonia,11,22.8406
+6312, New Caledonia,12,24.0394
+6313, Faroe Islands,1,3.13274
+6314, Faroe Islands,2,3.01613
+6315, Faroe Islands,3,3.413
+6316, Faroe Islands,4,4.61546
+6317, Faroe Islands,5,6.70467
+6318, Faroe Islands,6,8.83656
+6319, Faroe Islands,7,10.3018
+6320, Faroe Islands,8,10.5581
+6321, Faroe Islands,9,9.21572
+6322, Faroe Islands,10,7.09427
+6323, Faroe Islands,11,4.84275
+6324, Faroe Islands,12,3.66513
+6325, Canada,1,-24.4688
+6326, Canada,2,-23.3177
+6327, Canada,3,-18.5171
+6328, Canada,4,-9.54978
+6329, Canada,5,-0.100313
+6330, Canada,6,7.33036
+6331, Canada,7,11.2632
+6332, Canada,8,9.67183
+6333, Canada,9,3.84103
+6334, Canada,10,-3.98672
+6335, Canada,11,-13.8486
+6336, Canada,12,-20.9511
+6337, Cyprus,1,10.4465
+6338, Cyprus,2,10.8709
+6339, Cyprus,3,13.0313
+6340, Cyprus,4,16.6381
+6341, Cyprus,5,20.7164
+6342, Cyprus,6,24.6076
+6343, Cyprus,7,27.3515
+6344, Cyprus,8,27.6106
+6345, Cyprus,9,25.0295
+6346, Cyprus,10,21.2838
+6347, Cyprus,11,16.3371
+6348, Cyprus,12,12.1756
+6349, Dominican Republic,1,21.5552
+6350, Dominican Republic,2,21.9062
+6351, Dominican Republic,3,22.6461
+6352, Dominican Republic,4,23.5299
+6353, Dominican Republic,5,24.1249
+6354, Dominican Republic,6,24.8045
+6355, Dominican Republic,7,25.012
+6356, Dominican Republic,8,25.4196
+6357, Dominican Republic,9,25.2129
+6358, Dominican Republic,10,24.6218
+6359, Dominican Republic,11,23.5619
+6360, Dominican Republic,12,22.4087
+6361, St. Vincent and the Grenadines,1,25.1428
+6362, St. Vincent and the Grenadines,2,25.1165
+6363, St. Vincent and the Grenadines,3,25.676
+6364, St. Vincent and the Grenadines,4,26.5321
+6365, St. Vincent and the Grenadines,5,27.5558
+6366, St. Vincent and the Grenadines,6,27.7339
+6367, St. Vincent and the Grenadines,7,27.4787
+6368, St. Vincent and the Grenadines,8,27.5832
+6369, St. Vincent and the Grenadines,9,27.4622
+6370, St. Vincent and the Grenadines,10,27.1504
+6371, St. Vincent and the Grenadines,11,26.7041
+6372, St. Vincent and the Grenadines,12,25.7923
+6373, Argentina,1,20.9492
+6374, Argentina,2,20.0382
+6375, Argentina,3,17.7645
+6376, Argentina,4,14.0925
+6377, Argentina,5,10.5994
+6378, Argentina,6,7.90118
+6379, Argentina,7,7.47143
+6380, Argentina,8,9.08521
+6381, Argentina,9,11.7364
+6382, Argentina,10,14.7005
+6383, Argentina,11,17.5319
+6384, Argentina,12,19.8632
+6385, Malta,1,12.1948
+6386, Malta,2,12.3448
+6387, Malta,3,13.7264
+6388, Malta,4,15.9416
+6389, Malta,5,19.146
+6390, Malta,6,23.0468
+6391, Malta,7,25.8262
+6392, Malta,8,26.4822
+6393, Malta,9,24.4788
+6394, Malta,10,21.0657
+6395, Malta,11,17.2099
+6396, Malta,12,13.8699
+6397, Ukraine,1,-4.82765
+6398, Ukraine,2,-3.84097
+6399, Ukraine,3,1.16167
+6400, Ukraine,4,8.90967
+6401, Ukraine,5,15.1454
+6402, Ukraine,6,18.6935
+6403, Ukraine,7,20.5892
+6404, Ukraine,8,19.7943
+6405, Ukraine,9,14.8621
+6406, Ukraine,10,8.5769
+6407, Ukraine,11,2.57078
+6408, Ukraine,12,-2.3527
+6409, Suriname,1,25.0363
+6410, Suriname,2,24.9674
+6411, Suriname,3,25.3366
+6412, Suriname,4,25.6426
+6413, Suriname,5,25.7085
+6414, Suriname,6,25.7039
+6415, Suriname,7,25.6936
+6416, Suriname,8,26.1232
+6417, Suriname,9,26.3841
+6418, Suriname,10,26.5439
+6419, Suriname,11,26.4253
+6420, Suriname,12,25.6088
+6421, Chile,1,12.6396
+6422, Chile,2,12.1861
+6423, Chile,3,10.8855
+6424, Chile,4,8.51665
+6425, Chile,5,6.13669
+6426, Chile,6,4.4043
+6427, Chile,7,3.9965
+6428, Chile,8,4.68465
+6429, Chile,9,6.3042
+6430, Chile,10,8.10281
+6431, Chile,11,9.89536
+6432, Chile,12,11.6441
+6433, Japan,1,-1.21529
+6434, Japan,2,-0.766468
+6435, Japan,3,2.637
+6436, Japan,4,8.61149
+6437, Japan,5,13.3904
+6438, Japan,6,17.4792
+6439, Japan,7,21.61
+6440, Japan,8,22.9122
+6441, Japan,9,19.0185
+6442, Japan,10,13.0071
+6443, Japan,11,7.1316
+6444, Japan,12,1.66166
+6445, Brunei,1,24.8629
+6446, Brunei,2,24.8834
+6447, Brunei,3,25.2965
+6448, Brunei,4,25.7308
+6449, Brunei,5,25.7232
+6450, Brunei,6,25.6279
+6451, Brunei,7,25.417
+6452, Brunei,8,25.491
+6453, Brunei,9,25.3751
+6454, Brunei,10,25.2311
+6455, Brunei,11,24.9106
+6456, Brunei,12,25.1304
+6457, Uzbekistan,1,-3.24458
+6458, Uzbekistan,2,-1.31431
+6459, Uzbekistan,3,5.04973
+6460, Uzbekistan,4,13.6525
+6461, Uzbekistan,5,20.1704
+6462, Uzbekistan,6,24.9726
+6463, Uzbekistan,7,27.2959
+6464, Uzbekistan,8,25.3309
+6465, Uzbekistan,9,19.3541
+6466, Uzbekistan,10,11.7089
+6467, Uzbekistan,11,4.53818
+6468, Uzbekistan,12,-0.953253
+6469, South Sudan,1,26.5535
+6470, South Sudan,2,28.0737
+6471, South Sudan,3,29.1611
+6472, South Sudan,4,29.0583
+6473, South Sudan,5,27.7288
+6474, South Sudan,6,26.3762
+6475, South Sudan,7,25.4984
+6476, South Sudan,8,25.2614
+6477, South Sudan,9,25.83
+6478, South Sudan,10,26.4694
+6479, South Sudan,11,26.5427
+6480, South Sudan,12,26.154
+6481, Liberia,1,25.4544
+6482, Liberia,2,26.1636
+6483, Liberia,3,26.7955
+6484, Liberia,4,26.5455
+6485, Liberia,5,26.0606
+6486, Liberia,6,25.2992
+6487, Liberia,7,24.2578
+6488, Liberia,8,23.9232
+6489, Liberia,9,24.7236
+6490, Liberia,10,25.2917
+6491, Liberia,11,25.6777
+6492, Liberia,12,25.3626
+6493, Mozambique,1,26.0402
+6494, Mozambique,2,25.923
+6495, Mozambique,3,25.4891
+6496, Mozambique,4,24.1681
+6497, Mozambique,5,22.0848
+6498, Mozambique,6,20.128
+6499, Mozambique,7,19.5508
+6500, Mozambique,8,20.9146
+6501, Mozambique,9,23.1446
+6502, Mozambique,10,25.2872
+6503, Mozambique,11,26.2371
+6504, Mozambique,12,26.1891
+6505, Georgia,1,-6.5266
+6506, Georgia,2,-5.27906
+6507, Georgia,3,-0.467411
+6508, Georgia,4,6.42915
+6509, Georgia,5,11.5507
+6510, Georgia,6,15.1774
+6511, Georgia,7,18.2466
+6512, Georgia,8,18.2617
+6513, Georgia,9,13.9944
+6514, Georgia,10,8.189
+6515, Georgia,11,2.04187
+6516, Georgia,12,-3.88173
+6517, Iceland,1,-2.78535
+6518, Iceland,2,-2.8474
+6519, Iceland,3,-2.24197
+6520, Iceland,4,-0.280172
+6521, Iceland,5,3.44211
+6522, Iceland,6,6.86374
+6523, Iceland,7,8.85364
+6524, Iceland,8,8.01336
+6525, Iceland,9,5.176
+6526, Iceland,10,1.58858
+6527, Iceland,11,-1.54126
+6528, Iceland,12,-2.65861
+6529, Guatemala,1,21.091
+6530, Guatemala,2,21.7839
+6531, Guatemala,3,23.1853
+6532, Guatemala,4,24.5255
+6533, Guatemala,5,24.9467
+6534, Guatemala,6,24.6396
+6535, Guatemala,7,24.1991
+6536, Guatemala,8,24.3272
+6537, Guatemala,9,24.068
+6538, Guatemala,10,23.4002
+6539, Guatemala,11,22.0061
+6540, Guatemala,12,21.3704
+6541, Sri Lanka,1,25.0446
+6542, Sri Lanka,2,25.8305
+6543, Sri Lanka,3,27.0081
+6544, Sri Lanka,4,27.677
+6545, Sri Lanka,5,27.9434
+6546, Sri Lanka,6,27.5634
+6547, Sri Lanka,7,27.3152
+6548, Sri Lanka,8,27.1514
+6549, Sri Lanka,9,27.1118
+6550, Sri Lanka,10,26.5277
+6551, Sri Lanka,11,25.7669
+6552, Sri Lanka,12,25.1949
+6553, Portugal,1,8.27593
+6554, Portugal,2,9.11621
+6555, Portugal,3,11.1515
+6556, Portugal,4,13.0009
+6557, Portugal,5,15.7913
+6558, Portugal,6,19.3643
+6559, Portugal,7,21.8228
+6560, Portugal,8,22.0726
+6561, Portugal,9,19.7823
+6562, Portugal,10,15.9386
+6563, Portugal,11,11.5276
+6564, Portugal,12,8.86585
+6565, Bhutan,1,3.9975
+6566, Bhutan,2,5.64715
+6567, Bhutan,3,9.45389
+6568, Bhutan,4,12.3326
+6569, Bhutan,5,14.8012
+6570, Bhutan,6,17.3047
+6571, Bhutan,7,17.7929
+6572, Bhutan,8,17.5868
+6573, Bhutan,9,16.5291
+6574, Bhutan,10,13.2065
+6575, Bhutan,11,8.73415
+6576, Bhutan,12,5.42192
+6577, Greece,1,4.71185
+6578, Greece,2,5.72116
+6579, Greece,3,8.31557
+6580, Greece,4,12.0827
+6581, Greece,5,16.6522
+6582, Greece,6,20.8018
+6583, Greece,7,23.5445
+6584, Greece,8,23.4791
+6585, Greece,9,19.8807
+6586, Greece,10,15.0945
+6587, Greece,11,10.415
+6588, Greece,12,6.31784
+6589, Jordan,1,8.60792
+6590, Jordan,2,10.16
+6591, Jordan,3,13.3004
+6592, Jordan,4,17.798
+6593, Jordan,5,22.2564
+6594, Jordan,6,25.2867
+6595, Jordan,7,27.1099
+6596, Jordan,8,27.3275
+6597, Jordan,9,25.0969
+6598, Jordan,10,21.2648
+6599, Jordan,11,15.2809
+6600, Jordan,12,10.338
+6601, Moldova,1,-3.23314
+6602, Moldova,2,-1.9039
+6603, Moldova,3,2.98772
+6604, Moldova,4,10.0627
+6605, Moldova,5,16.1144
+6606, Moldova,6,19.6481
+6607, Moldova,7,21.5897
+6608, Moldova,8,20.9695
+6609, Moldova,9,16.329
+6610, Moldova,10,10.1929
+6611, Moldova,11,4.20788
+6612, Moldova,12,-0.800331
+6613, Timor Leste,1,25.6622
+6614, Timor Leste,2,25.595
+6615, Timor Leste,3,25.7084
+6616, Timor Leste,4,25.5966
+6617, Timor Leste,5,25.2065
+6618, Timor Leste,6,24.5618
+6619, Timor Leste,7,24.1252
+6620, Timor Leste,8,24.2934
+6621, Timor Leste,9,24.9681
+6622, Timor Leste,10,25.8428
+6623, Timor Leste,11,26.3479
+6624, Timor Leste,12,25.8129
+6625, Palau,1,27.208
+6626, Palau,2,27.2827
+6627, Palau,3,27.4562
+6628, Palau,4,27.8598
+6629, Palau,5,27.9282
+6630, Palau,6,27.6779
+6631, Palau,7,27.3928
+6632, Palau,8,27.4606
+6633, Palau,9,27.592
+6634, Palau,10,27.7242
+6635, Palau,11,27.7282
+6636, Palau,12,27.5895
+6637, Qatar,1,17.0004
+6638, Qatar,2,18.3352
+6639, Qatar,3,21.8904
+6640, Qatar,4,26.5377
+6641, Qatar,5,31.6518
+6642, Qatar,6,34.3014
+6643, Qatar,7,35.4257
+6644, Qatar,8,35.1485
+6645, Qatar,9,32.8385
+6646, Qatar,10,28.9527
+6647, Qatar,11,23.9893
+6648, Qatar,12,19.0213
+6649, Madagascar,1,24.7417
+6650, Madagascar,2,24.5673
+6651, Madagascar,3,24.4079
+6652, Madagascar,4,23.412
+6653, Madagascar,5,21.6539
+6654, Madagascar,6,19.8062
+6655, Madagascar,7,19.0921
+6656, Madagascar,8,19.7527
+6657, Madagascar,9,21.1846
+6658, Madagascar,10,22.8486
+6659, Madagascar,11,23.9352
+6660, Madagascar,12,24.3647
+6661, Bulgaria,1,-0.916093
+6662, Bulgaria,2,0.789539
+6663, Bulgaria,3,4.94286
+6664, Bulgaria,4,10.1532
+6665, Bulgaria,5,15.3928
+6666, Bulgaria,6,19.1256
+6667, Bulgaria,7,21.6257
+6668, Bulgaria,8,21.2411
+6669, Bulgaria,9,17.1295
+6670, Bulgaria,10,11.7618
+6671, Bulgaria,11,6.00761
+6672, Bulgaria,12,1.19663
+6673, Senegal,1,24.4947
+6674, Senegal,2,26.4772
+6675, Senegal,3,28.5193
+6676, Senegal,4,30.2755
+6677, Senegal,5,31.2739
+6678, Senegal,6,30.4653
+6679, Senegal,7,28.7058
+6680, Senegal,8,27.7659
+6681, Senegal,9,27.9617
+6682, Senegal,10,28.9075
+6683, Senegal,11,27.3907
+6684, Senegal,12,24.6897
+6685, New Zealand,1,14.4979
+6686, New Zealand,2,14.7253
+6687, New Zealand,3,13.1127
+6688, New Zealand,4,10.4857
+6689, New Zealand,5,7.46389
+6690, New Zealand,6,5.13157
+6691, New Zealand,7,4.34049
+6692, New Zealand,8,5.44482
+6693, New Zealand,9,7.42599
+6694, New Zealand,10,9.48482
+6695, New Zealand,11,11.2001
+6696, New Zealand,12,13.0994
+6697, Mongolia,1,-21.2094
+6698, Mongolia,2,-17.871
+6699, Mongolia,3,-9.26669
+6700, Mongolia,4,1.82862
+6701, Mongolia,5,9.57802
+6702, Mongolia,6,15.3899
+6703, Mongolia,7,17.8024
+6704, Mongolia,8,15.8664
+6705, Mongolia,9,9.41059
+6706, Mongolia,10,0.93045
+6707, Mongolia,11,-10.6475
+6708, Mongolia,12,-18.833
+6709, Bahamas,1,21.1163
+6710, Bahamas,2,21.3841
+6711, Bahamas,3,22.5093
+6712, Bahamas,4,23.9138
+6713, Bahamas,5,25.5571
+6714, Bahamas,6,27.15
+6715, Bahamas,7,27.8297
+6716, Bahamas,8,27.9316
+6717, Bahamas,9,27.5454
+6718, Bahamas,10,26.1323
+6719, Bahamas,11,23.7567
+6720, Bahamas,12,21.9373
+6721, Albania,1,1.94066
+6722, Albania,2,3.00121
+6723, Albania,3,6.2246
+6724, Albania,4,10.2074
+6725, Albania,5,14.8432
+6726, Albania,6,18.5011
+6727, Albania,7,21.2938
+6728, Albania,8,21.2735
+6729, Albania,9,17.5115
+6730, Albania,10,12.5707
+6731, Albania,11,7.77385
+6732, Albania,12,3.73146
+6733, Togo,1,26.8122
+6734, Togo,2,28.6599
+6735, Togo,3,29.4969
+6736, Togo,4,29.0551
+6737, Togo,5,27.9703
+6738, Togo,6,26.2893
+6739, Togo,7,25.3791
+6740, Togo,8,24.9377
+6741, Togo,9,25.5865
+6742, Togo,10,26.5184
+6743, Togo,11,27.1618
+6744, Togo,12,26.6471
+6745, Tajikistan,1,-10.0335
+6746, Tajikistan,2,-8.27238
+6747, Tajikistan,3,-2.93237
+6748, Tajikistan,4,3.59591
+6749, Tajikistan,5,7.94022
+6750, Tajikistan,6,12.5255
+6751, Tajikistan,7,15.7802
+6752, Tajikistan,8,15.2285
+6753, Tajikistan,9,10.6238
+6754, Tajikistan,10,4.37609
+6755, Tajikistan,11,-2.08527
+6756, Tajikistan,12,-7.15606
+6757, Marshall Islands,1,27.3306
+6758, Marshall Islands,2,27.5458
+6759, Marshall Islands,3,27.5566
+6760, Marshall Islands,4,27.5803
+6761, Marshall Islands,5,27.6409
+6762, Marshall Islands,6,27.5558
+6763, Marshall Islands,7,27.6182
+6764, Marshall Islands,8,27.7087
+6765, Marshall Islands,9,27.7318
+6766, Marshall Islands,10,27.7084
+6767, Marshall Islands,11,27.5975
+6768, Marshall Islands,12,27.4103
+6769, Central African Republic,1,24.5509
+6770, Central African Republic,2,26.2685
+6771, Central African Republic,3,27.1271
+6772, Central African Republic,4,26.9983
+6773, Central African Republic,5,26.0529
+6774, Central African Republic,6,24.8428
+6775, Central African Republic,7,24.0108
+6776, Central African Republic,8,23.7382
+6777, Central African Republic,9,24.0602
+6778, Central African Republic,10,24.5503
+6779, Central African Republic,11,24.5789
+6780, Central African Republic,12,24.0428
+6781, Mexico,1,14.9925
+6782, Mexico,2,16.3546
+6783, Mexico,3,18.4268
+6784, Mexico,4,21.1833
+6785, Mexico,5,23.484
+6786, Mexico,6,25.1027
+6787, Mexico,7,24.9142
+6788, Mexico,8,24.8058
+6789, Mexico,9,23.6332
+6790, Mexico,10,21.1455
+6791, Mexico,11,17.6123
+6792, Mexico,12,15.2051
+6793, Somalia,1,25.0661
+6794, Somalia,2,26.0415
+6795, Somalia,3,27.3378
+6796, Somalia,4,28.2101
+6797, Somalia,5,28.3627
+6798, Somalia,6,27.8768
+6799, Somalia,7,27.0915
+6800, Somalia,8,27.1223
+6801, Somalia,9,27.8144
+6802, Somalia,10,26.8724
+6803, Somalia,11,25.9483
+6804, Somalia,12,25.1344
+6805, Benin,1,26.4934
+6806, Benin,2,28.6362
+6807, Benin,3,30.22
+6808, Benin,4,30.2705
+6809, Benin,5,29.0432
+6810, Benin,6,27.1598
+6811, Benin,7,25.9833
+6812, Benin,8,25.3115
+6813, Benin,9,25.9666
+6814, Benin,10,27.1339
+6815, Benin,11,27.325
+6816, Benin,12,26.5288
+6817, Czech Republic,1,-2.46337
+6818, Czech Republic,2,-1.10464
+6819, Czech Republic,3,2.99349
+6820, Czech Republic,4,7.78521
+6821, Czech Republic,5,12.6989
+6822, Czech Republic,6,15.7692
+6823, Czech Republic,7,17.6402
+6824, Czech Republic,8,17.2264
+6825, Czech Republic,9,13.5511
+6826, Czech Republic,10,8.43655
+6827, Czech Republic,11,2.92037
+6828, Czech Republic,12,-0.895962
+6829, Chad,1,21.0336
+6830, Chad,2,23.4417
+6831, Chad,3,26.7679
+6832, Chad,4,29.7706
+6833, Chad,5,31.095
+6834, Chad,6,30.8483
+6835, Chad,7,29.3997
+6836, Chad,8,28.1154
+6837, Chad,9,28.4602
+6838, Chad,10,27.5069
+6839, Chad,11,24.3128
+6840, Chad,12,21.7099
+6841, Bahrain,1,16.3575
+6842, Bahrain,2,17.9614
+6843, Bahrain,3,21.6935
+6844, Bahrain,4,26.5444
+6845, Bahrain,5,31.87
+6846, Bahrain,6,34.5547
+6847, Bahrain,7,35.9748
+6848, Bahrain,8,35.6599
+6849, Bahrain,9,33.1271
+6850, Bahrain,10,28.8701
+6851, Bahrain,11,23.4981
+6852, Bahrain,12,18.3759
+6853, Puerto Rico,1,22.9359
+6854, Puerto Rico,2,23.0273
+6855, Puerto Rico,3,23.4604
+6856, Puerto Rico,4,24.2371
+6857, Puerto Rico,5,25.1648
+6858, Puerto Rico,6,25.8926
+6859, Puerto Rico,7,26.0557
+6860, Puerto Rico,8,26.3516
+6861, Puerto Rico,9,26.2451
+6862, Puerto Rico,10,25.8512
+6863, Puerto Rico,11,24.9919
+6864, Puerto Rico,12,23.9181
+6865, Sweden,1,-9.20443
+6866, Sweden,2,-8.56903
+6867, Sweden,3,-4.84819
+6868, Sweden,4,0.407504
+6869, Sweden,5,6.26241
+6870, Sweden,6,11.2794
+6871, Sweden,7,13.9952
+6872, Sweden,8,12.4109
+6873, Sweden,9,7.91473
+6874, Sweden,10,2.39149
+6875, Sweden,11,-3.49693
+6876, Sweden,12,-7.23985
+6877, Mauritania,1,20.2949
+6878, Mauritania,2,22.368
+6879, Mauritania,3,25.2024
+6880, Mauritania,4,28.1542
+6881, Mauritania,5,31.4346
+6882, Mauritania,6,33.4485
+6883, Mauritania,7,33.399
+6884, Mauritania,8,32.3131
+6885, Mauritania,9,31.1945
+6886, Mauritania,10,29.3893
+6887, Mauritania,11,25.0657
+6888, Mauritania,12,20.6865
+6889, Costa Rica,1,24.0807
+6890, Costa Rica,2,24.4165
+6891, Costa Rica,3,25.2984
+6892, Costa Rica,4,25.7778
+6893, Costa Rica,5,25.2633
+6894, Costa Rica,6,24.5635
+6895, Costa Rica,7,24.6672
+6896, Costa Rica,8,24.5359
+6897, Costa Rica,9,24.2881
+6898, Costa Rica,10,24.0501
+6899, Costa Rica,11,23.661
+6900, Costa Rica,12,23.5924
+6901, Kiribati,1,27.4906
+6902, Kiribati,2,27.5573
+6903, Kiribati,3,27.7463
+6904, Kiribati,4,27.7978
+6905, Kiribati,5,27.7685
+6906, Kiribati,6,27.5633
+6907, Kiribati,7,27.3287
+6908, Kiribati,8,27.2957
+6909, Kiribati,9,27.1879
+6910, Kiribati,10,27.2776
+6911, Kiribati,11,27.4784
+6912, Kiribati,12,27.6216
+6913, Bosnia and Herzegovina,1,-0.755543
+6914, Bosnia and Herzegovina,2,0.607669
+6915, Bosnia and Herzegovina,3,4.60267
+6916, Bosnia and Herzegovina,4,9.05015
+6917, Bosnia and Herzegovina,5,13.6953
+6918, Bosnia and Herzegovina,6,17.2214
+6919, Bosnia and Herzegovina,7,19.5266
+6920, Bosnia and Herzegovina,8,19.3937
+6921, Bosnia and Herzegovina,9,15.5042
+6922, Bosnia and Herzegovina,10,10.3632
+6923, Bosnia and Herzegovina,11,5.35123
+6924, Bosnia and Herzegovina,12,1.40039
+6925, Guinea,1,24.5435
+6926, Guinea,2,26.4418
+6927, Guinea,3,27.9947
+6928, Guinea,4,28.5268
+6929, Guinea,5,27.7356
+6930, Guinea,6,25.8923
+6931, Guinea,7,24.7622
+6932, Guinea,8,24.2257
+6933, Guinea,9,24.8496
+6934, Guinea,10,25.4001
+6935, Guinea,11,25.4009
+6936, Guinea,12,24.1655
+6937, Kyrgyzstan,1,-13.3275
+6938, Kyrgyzstan,2,-11.2
+6939, Kyrgyzstan,3,-4.23393
+6940, Kyrgyzstan,4,4.10636
+6941, Kyrgyzstan,5,8.78354
+6942, Kyrgyzstan,6,12.6767
+6943, Kyrgyzstan,7,15.5673
+6944, Kyrgyzstan,8,14.9076
+6945, Kyrgyzstan,9,10.0735
+6946, Kyrgyzstan,10,3.30347
+6947, Kyrgyzstan,11,-4.55781
+6948, Kyrgyzstan,12,-10.5708
+6949, Lesotho,1,18.1923
+6950, Lesotho,2,17.4984
+6951, Lesotho,3,15.8609
+6952, Lesotho,4,12.5059
+6953, Lesotho,5,9.17788
+6954, Lesotho,6,6.41368
+6955, Lesotho,7,6.66481
+6956, Lesotho,8,8.60711
+6957, Lesotho,9,12.1235
+6958, Lesotho,10,13.9826
+6959, Lesotho,11,15.431
+6960, Lesotho,12,16.9814
+6961, Malawi,1,23.4294
+6962, Malawi,2,23.3523
+6963, Malawi,3,23.1949
+6964, Malawi,4,22.2322
+6965, Malawi,5,20.3184
+6966, Malawi,6,18.5199
+6967, Malawi,7,17.9232
+6968, Malawi,8,19.3791
+6969, Malawi,9,21.9573
+6970, Malawi,10,24.4355
+6971, Malawi,11,24.9817
+6972, Malawi,12,24.1006
+6973, Syria,1,6.10902
+6974, Syria,2,7.85835
+6975, Syria,3,11.4275
+6976, Syria,4,16.3925
+6977, Syria,5,21.6635
+6978, Syria,6,26.0698
+6979, Syria,7,28.9106
+6980, Syria,8,28.8762
+6981, Syria,9,25.3751
+6982, Syria,10,20.0523
+6983, Syria,11,12.9919
+6984, Syria,12,7.67839
+6985, Maldives,1,27.3552
+6986, Maldives,2,28.1216
+6987, Maldives,3,28.0172
+6988, Maldives,4,28.2784
+6989, Maldives,5,28.0414
+6990, Maldives,6,27.7672
+6991, Maldives,7,27.419
+6992, Maldives,8,27.4353
+6993, Maldives,9,27.3733
+6994, Maldives,10,27.2129
+6995, Maldives,11,27.3578
+6996, Maldives,12,27.169
+6997, Macedonia,1,-0.977383
+6998, Macedonia,2,0.744827
+6999, Macedonia,3,4.66912
+7000, Macedonia,4,9.25477
+7001, Macedonia,5,14.0842
+7002, Macedonia,6,17.6836
+7003, Macedonia,7,20.3128
+7004, Macedonia,8,20.2702
+7005, Macedonia,9,16.3566
+7006, Macedonia,10,10.9657
+7007, Macedonia,11,5.51888
+7008, Macedonia,12,0.880249
+7009, Singapore,1,26.5826
+7010, Singapore,2,26.9076
+7011, Singapore,3,27.263
+7012, Singapore,4,27.4977
+7013, Singapore,5,27.8321
+7014, Singapore,6,27.4901
+7015, Singapore,7,27.2219
+7016, Singapore,8,27.2622
+7017, Singapore,9,27.2425
+7018, Singapore,10,27.1906
+7019, Singapore,11,27.1253
+7020, Singapore,12,26.6321
