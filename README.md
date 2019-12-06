@@ -15,5 +15,7 @@ Local File also available if you have Tableau Public installed in GlobalWarmingV
 
 User's Guide on how to explore the datasets is included under section "Results" in FinalPaper.pdf
 
-To Execute Process in 
+To Execute Process in TempDataProcess folder:
 instructions to execute your code, specifications such as OS, database version, ODBC driver version, programming language
+
+Process described in CMSC 461 Report was run on an Ubuntu 18.04.03 Virtual Machine with PostgreSQL version 12.0 installed. I used psycopg2 2.8.3-2 Python 3 module for PostgreSQL as my ODBC in order to connect to my temperature database run my python code, which is also included in the TempDataProcess folder, as well as screenshots with the necessary commands to run all the same code. 
