@@ -13,7 +13,7 @@ https://public.tableau.com/views/EnvironmentalVisMap/GlobalWarmingData?:display_
 
 Local File also available if you have Tableau Public installed in GlobalWarmingViz folder
 
-User's Guide on how to explore the datasets is included under section "Results" in FinalPaper.pdf
+User's Guide on how to explore the datasets is included under section "Results" in FinalPaper.pdf within the GlobalWarmingViz folder
 
 To Execute Process in TempDataProcess folder:
 instructions to execute your code, specifications such as OS, database version, ODBC driver version, programming language
